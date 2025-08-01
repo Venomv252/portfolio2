@@ -36,7 +36,7 @@ const About = () => {
               <p>
                 Hello! I'm Aryan Raj, a Computer Science and Data Analytics student at 
                 Indian Institute of Technology Patna (Expected 2027). With a strong academic 
-                record (CPI: 8.74), I'm passionate about technology and its potential to 
+                record (CPI: 8.9), I'm passionate about technology and its potential to 
                 create meaningful impact.
               </p>
               <p>
@@ -61,7 +61,7 @@ const About = () => {
                   <h4>Bachelor of Science in Computer Science and Data Analytics</h4>
                   <p>Indian Institute of Technology Patna</p>
                   <p>Expected Graduation: 2027</p>
-                  <p>CPI: 8.74</p>
+                  <p>CPI: 8.9</p>
                 </div>
               </div>
             </motion.div>
